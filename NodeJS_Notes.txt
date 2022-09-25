@@ -1,0 +1,2 @@
+Event Loop - Event Loop is what allows node.js to perform non-blocking I/O operations - despite the fact that JavaScript 
+is single threaded - by offloading operations to the system kernal whenever possible.
